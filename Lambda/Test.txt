@@ -1,1 +1,2 @@
 Initial text
+Now version 1.0
