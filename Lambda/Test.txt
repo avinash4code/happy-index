@@ -2,3 +2,4 @@ Initial text
 Now version 1.0
 some minor text but not version change
 Now version 2.0
+again some minor
